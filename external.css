@@ -1,0 +1,72 @@
+#xyz{
+	border: 2px solid green;
+	background-color: skyblue;
+}
+.abci{
+	color: red;
+}
+p{
+	color: skyblue;
+	font-weight: bold;
+	font-size: 30px;
+	background-color: pink;
+}
+h4{
+	color: orange;
+	font-weight: bold;
+	font-size: 30px;
+	background-color: pink;	
+}
+h1{
+	color: green;
+}
+u,i{
+	color: red;
+	font-size: 20px;
+	background-color: black;
+}
+*{
+	font-family: cursive;
+	padding: 0px;
+}
+input[type="text"]{
+	color: blue;
+}
+input[type="number"]{
+	color: red;
+}
+input[type="email"]{
+	color: yellow;
+}
+input[type="password"]{
+	color: orange;
+}
+a[href]{
+	color: blue;
+}
+img[src]{
+	width: 200px;
+	height: 300px;
+	border: 6px solid red;
+}
+/*a:hover{
+	color: red;*/
+}
+a:link{
+	color: pink;
+}
+
+/*a:visited{
+	color: violet;
+}
+a:active{
+	color: seagreen;
+}
+div{
+	background-color: blue;
+	width: 200px;
+	height: 200px;
+}
+div:hover{
+	background-color: red;
+}*/
